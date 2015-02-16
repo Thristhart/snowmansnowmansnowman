@@ -1,0 +1,24 @@
+{
+  "name": "snowmansnowmansnowman",
+  "version": "1.0.0",
+  "description": "emoji pictionary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Thristhart/snowmansnowmansnowman.git"
+  },
+  "keywords": [
+    "game",
+    "emoji",
+    "pictionary"
+  ],
+  "author": "thristhart <tom@shea.at>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thristhart/snowmansnowmansnowman/issues"
+  },
+  "homepage": "https://github.com/Thristhart/snowmansnowmansnowman"
+}
