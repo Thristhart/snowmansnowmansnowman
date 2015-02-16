@@ -1,0 +1,6 @@
+{
+  "port": 56799,
+  "redisOpts": {
+    "host": "localhost"
+  }
+}
